@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Livre de recettes</string>
+    <string name="error_happened">Erreur</string>
+    <string name="saved">Enregistré</string>
+</resources>
